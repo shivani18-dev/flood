@@ -2,3 +2,6 @@ flask
 joblib
 numpy
 scikit-learn
+Django==4.2
+djangorestframework==3.14.0
+gunicorn==21.2.0
